@@ -2,6 +2,7 @@
 
 taken from http://codingdojo.org/kata/RomanNumerals/
 
+## Requirements
 
 The Romans were a clever bunch. They conquered most of Europe and ruled it for 
 hundreds of years. They invented concrete and straight roads and even bikinis. 
@@ -14,10 +15,11 @@ The Romans wrote numbers using letters : I, V, X, L, C, D, M. (notice these
 letters have lots of straight lines and are hence easy to hack into stone 
 tablets)
 
-**Requirements**
+## Examples
 
 The Kata says you should write a function to convert from normal numbers to 
-Roman Numerals: eg
+Roman Numerals: e.g.
+
 ```
      1 --> I
      10 --> X
