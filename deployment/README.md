@@ -1,4 +1,4 @@
 # Deployment katas
 
-- [Deploy a pod](./DeployAPod.md)
-- [Debugging Kubernetes](./DebuggingKubernetes.md)
+- [Deploy a pod](deploy-a-pod/README.md)
+- [Debugging Kubernetes](debugging-kubernetes/README.md)

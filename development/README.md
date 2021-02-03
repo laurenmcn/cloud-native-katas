@@ -1,5 +1,5 @@
 # Development katas
 
-- [Palindrome](./Palindrome.md)
-- [Prime Factors](./PrimeFactors.md)
-- [Roman Numerals](./RomanNumerals.md)
+- [Palindrome](palindrome/README.md)
+- [Prime Factors](prime-factors/README.md)
+- [Roman Numerals](roman-numerals/README.md)
