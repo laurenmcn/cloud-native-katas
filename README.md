@@ -3,8 +3,8 @@
 A collection of exercises for various aspects of Cloud Engineering.
 
 - [Development katas](./development/README.md)
-- [DevOps](./devops/README.md)
-- [Deployment](./deployment/README.md)
+- [DevOps katas](./devops/README.md)
+- [Deployment katas](./deployment/README.md)
 
 ## Resources
 
