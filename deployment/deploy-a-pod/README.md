@@ -12,11 +12,11 @@ The specifications for the pod and services are as follows:
 - Label the pod with `app=yoda`
 - Use the `bitnami/nginx` container image
 - The container needs a containerPort of `8080`
-- Provide `nginx` as the command to run in the container
-- Pass in `-g daemon off; -q` as args for the `nginx` command to run in quiet mode
+- Set the liveness and readiness probes to check port `8080`
 - Name the service `yoda-service`
-- Use port `80` for the service port that exposes port `8080` of the pod
+- Use port `80` for the service port that exposes the target port `8080` of the pod
 - Use `ClusterIP` for the service type
+- Use the `app=yoda` label for the selector in the service
 
 ## Verification
 
