@@ -1,5 +1,6 @@
 # Development katas
 
 - [Palindrome](palindrome/README.md)
-- [Prime Factors](prime-factors/README.md)
+- [FizzBuzz](fizz-buzz/README.md)
 - [Roman Numerals](roman-numerals/README.md)
+- [Prime Factors](prime-factors/README.md)
