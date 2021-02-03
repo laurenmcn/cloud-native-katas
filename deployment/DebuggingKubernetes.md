@@ -1,5 +1,7 @@
 # Kata: Debugging Kubernetes
 
+From https://cloudnative101.dev/lectures/kube-overview/activities/labs/lab5
+
 ## Problem
 
 The Hyper Drive isn’t working and we need to find out why. Let’s debug the hyper-drive deployment so that we can reach 
