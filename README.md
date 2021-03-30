@@ -19,4 +19,4 @@ used:
 ### Cluster resources
 
 - [IBM OpenLabs](https://developer.ibm.com/openlabs/openshift) - use the Lab 6 environment
-- [OpenShift Playgrounds](https://learn.openshift.com/playgrounds/)
+- [OpenShift Playgrounds](https://learn.openshift.com/playgrounds/) - can get an OpenShift cluster for an hour without requiring an id
